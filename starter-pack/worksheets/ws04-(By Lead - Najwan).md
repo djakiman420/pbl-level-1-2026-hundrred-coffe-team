@@ -17,7 +17,7 @@
 | **Elemen Informasi**          | **Rincian Identitas Kelompok & Mitra** |
 | ----------------------------- | -------------------------------------- |
 | **Nama Kelompok / Kelas**     | \[Hundred Team / A \]                  |
-| **Phase Lead 2 (Frame - M2)** | \[Arkyanu Aufaa Sugara — 2600016025\]  |
+| **Phase Lead 2 (Frame - M2)** | \[Fatih Parulian Romadhon Hasibuan — 2600016009\]  |
 | **Nama UMKM Mitra Lapangan**  | \[Coffee Shop Hundred\]                |
 | **Pemilik / Kontak Mitra**    | \[Pak Sangap / 0822-8114-5011\]        |
 
@@ -127,7 +127,7 @@ Tentukan target kuantitatif perbaikan yang ingin dicapai melalui solusi sistem i
 
 None
 
-Disusun oleh Phase Lead 2 (Frame): \[ Arkyanu Aufaa Sugara — 2600016025 \] Tanggal Penyusunan: \[ 6 November 2026 \]
+Disusun oleh Phase Lead 2 (Frame): \[ Fatih Parulian Romadhon Hasibuan — 2600016009 \] Tanggal Penyusunan: \[ 6 November 2026 \]
 
 Tanda Tangan Phase Lead 2:
 
