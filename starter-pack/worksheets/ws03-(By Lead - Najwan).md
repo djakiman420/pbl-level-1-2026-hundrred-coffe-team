@@ -104,15 +104,15 @@ Disusun oleh Tim Kelompok: Hundred Team / Kelas A
 
 Tanggal Observasi: 12 Oktober 2026
 
-1\. Phase Lead 2 (Mahasiswa B): Najwan Mahdy Syandana Kusmoro — 2600016050 ( \[ Disetujui \] )
+1\. Phase Lead 2 (Mahasiswa B): Najwan Mahdy Syandana Kusmoro — 2600016050 ( \[ Disetujui \ ([TTD Juan](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20JUAN.jpg.jpeg))] )
 
-2\. Anggota Tim 1 : Yusril Djakiman — 2600016053 ( \[ Disetujui \] )
+2\. Anggota Tim 1 : Yusril Djakiman — 2600016053 ( \[ Disetujui \ ([TTD Yusril](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20YUSRIL.jpg.jpeg))] )
 
-3\. Anggota Tim 2 : Fatih Parulian Romadhon Hasibuan — 2600016009 ( \[ Disetujui \] )
+3\. Anggota Tim 2 : Fatih Parulian Romadhon Hasibuan — 2600016009 ( \[ Disetujui \ ([TTD Fateh](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20FATEH.jpg.jpeg))] )
 
-4\. Anggota Tim 3 : Ahmad Al Farizi — 2600016033 ( \[ Disetujui \] )
+4\. Anggota Tim 3 : Ahmad Al Farizi — 2600016033 ( \[ Disetujui \ ([TTD Alfarizi](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20AL%20FARIZ.jpg.jpeg))] )
 
-5\. Anggota Tim 4 : Arkyanu Aufaa Sugara — 2600016025 ( \[ Disetujui \] )
+5\. Anggota Tim 4 : Arkyanu Aufaa Sugara — 2600016025 ( \[ Disetujui \ ([TTD AKA](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20ARKYANU.jpg.jpeg))] )
 
 ```
 Diverifikasi oleh Dosen/Coach:
