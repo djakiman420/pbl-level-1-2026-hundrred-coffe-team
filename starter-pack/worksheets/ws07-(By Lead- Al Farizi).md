@@ -152,5 +152,7 @@ Pseudocode terstruktur dengan rapi dan independen terhadap bahasa pemrograman.
 
 Form **TPL-07 (AI Usage Disclosure & Verification Note)** telah dilampirkan. 
 
-**Tanggal Pengesahan** : 11 november 2026 **Tanda Tangan Phase Lead 4 (Design)** : **Tanda Tangan Dosen Pembimbing / Coach** : 
+**Tanggal Pengesahan** : 11 november 2026 
+**Tanda Tangan Phase Lead 4 (Design)** : Ahmad Al Farizi ([TTD Alfarizi](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20AL%20FARIZ.jpg.jpeg))
+**Tanda Tangan Dosen Pembimbing / Coach** : 
 
