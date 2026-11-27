@@ -102,7 +102,7 @@ _(Jika Ya, wajib melampirkan formulir_ **_TPL-07: AI Usage Disclosure & Verifica
 
 **Tanda Tangan Tim & Pengesahan Dosen** : 
 
-- **Phase Lead 3** : Fatih Parulian Romadhon Hasibuan (Tanggal: 2 November 2026) 
+- **Phase Lead 3** : Fatih Parulian Romadhon Hasibuan (Tanggal: 2 November 2026) ([TTD Fateh](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20FATEH.jpg.jpeg))
 
 - **Dosen Coach** : (Tanggal: ) [ ] Approved 
 
