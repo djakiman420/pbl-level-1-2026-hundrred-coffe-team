@@ -129,7 +129,7 @@ None
 
 Disusun oleh Phase Lead 2 (Frame): \[ Arkyanu Aufaa Sugara — 2600016025 \] Tanggal Penyusunan: \[ 6 November 2026 \]
 
-Tanda Tangan Phase Lead 2:
+Tanda Tangan Phase Lead 2: ([TTD AKA](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20ARKYANU.jpg.jpeg))
 
 Diverifikasi oleh Dosen Pengampu / Coach:
 
