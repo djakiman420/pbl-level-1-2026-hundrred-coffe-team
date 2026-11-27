@@ -92,15 +92,15 @@ Kekhawatiran utama adalah potensi miskomunikasi atau keterlambatan koordinasi ak
 
 | **No** | **Nama Mahasiswa**               | **NIM**    | **Peran / Rotasi Utama**                             | **Tanda Tangan / Persetujuan** |
 | ------ | -------------------------------- | ---------- | ---------------------------------------------------- | ------------------------------ |
-| 1      | Yusril Djakiman                  | 2600016053 | Phase Lead 1 (Discover) & Phase Lead 7 (Communicate) | \[ Disetujui \ ([TTD Alfarizi](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/main/starter-pack/assets/Tanda%20Tangan/TTD%20AL%20FARIZ.jpg.jpeg))                |
+| 1      | Yusril Djakiman                  | 2600016053 | Phase Lead 1 (Discover) & Phase Lead 7 (Communicate) | \[ Disetujui \ ([TTD Yusril](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20YUSRIL.jpg.jpeg))]                |
 | ---    | ---                              | ---        | ---                                                  | ---                            |
-| 2      | Najwan Mahdy Syandana Kusmoro    | 2600016050 | Phase Lead 2 (Frame) & Phase Lead 8 (Reflect)        | \[ Disetujui \]                |
+| 2      | Najwan Mahdy Syandana Kusmoro    | 2600016050 | Phase Lead 2 (Frame) & Phase Lead 8 (Reflect)        | \[ Disetujui \ ([TTD Juan](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20JUAN.jpg.jpeg))]                |
 | ---    | ---                              | ---        | ---                                                  | ---                            |
-| 3      | Fatih Parulian Romadhon Hasibuan | 2600016009 | Phase Lead 3 (Define) & Phase Lead 6 (Test)          | \[ Disetujui \]                |
+| 3      | Fatih Parulian Romadhon Hasibuan | 2600016009 | Phase Lead 3 (Define) & Phase Lead 6 (Test)          | \[ Disetujui \([TTD Fatih](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20FATEH.jpg.jpeg))]                |
 | ---    | ---                              | ---        | ---                                                  | ---                            |
-| 4      | Ahmad Al Farizi                  | 2600016033 | Phase Lead 4 (Design)                                | \[ Disetujui \]                |
+| 4      | Ahmad Al Farizi                  | 2600016033 | Phase Lead 4 (Design)                                | \[ Disetujui \ ([TTD Alfarizi](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/main/starter-pack/assets/Tanda%20Tangan/TTD%20AL%20FARIZ.jpg.jpeg))]                |
 | ---    | ---                              | ---        | ---                                                  | ---                            |
-| 5      | Arkyanu Aufaa Sugara             | 2600016025 | Phase Lead 5 (Build)                                 | \[ Disetujui \]                |
+| 5      | Arkyanu Aufaa Sugara             | 2600016025 | Phase Lead 5 (Build)                                 | \[ Disetujui \ ([TTD Aka](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/c2145addfe5e78351782a32ef9f8884ab39b56b8/starter-pack/assets/Tanda%20Tangan/TTD%20ARKYANU.jpg.jpeg))]                |
 
 **Tanggal Pengesahan**: 28 September 2026  
 **Dosen Pengampu / Coach**: Imam Azhari, S.Si., M.Cs.
