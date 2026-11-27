@@ -92,7 +92,7 @@ Kekhawatiran utama adalah potensi miskomunikasi atau keterlambatan koordinasi ak
 
 | **No** | **Nama Mahasiswa**               | **NIM**    | **Peran / Rotasi Utama**                             | **Tanda Tangan / Persetujuan** |
 | ------ | -------------------------------- | ---------- | ---------------------------------------------------- | ------------------------------ |
-| 1      | Yusril Djakiman                  | 2600016053 | Phase Lead 1 (Discover) & Phase Lead 7 (Communicate) | \[ Disetujui \ https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/main/starter-pack/assets/Tanda%20Tangan/TTD%20AL%20FARIZ.jpg.jpeg]                |
+| 1      | Yusril Djakiman                  | 2600016053 | Phase Lead 1 (Discover) & Phase Lead 7 (Communicate) | \[ Disetujui \ ([TTD Alfarizi](https://github.com/djakiman420/pbl-level-1-2026-hundrred-coffe-team/blob/main/starter-pack/assets/Tanda%20Tangan/TTD%20AL%20FARIZ.jpg.jpeg))                |
 | ---    | ---                              | ---        | ---                                                  | ---                            |
 | 2      | Najwan Mahdy Syandana Kusmoro    | 2600016050 | Phase Lead 2 (Frame) & Phase Lead 8 (Reflect)        | \[ Disetujui \]                |
 | ---    | ---                              | ---        | ---                                                  | ---                            |
